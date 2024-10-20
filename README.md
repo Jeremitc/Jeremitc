@@ -1,4 +1,4 @@
-# ![Jeremi Icon](https://github.com/Jeremitc/Jeremitc/raw/main/Jeremi-Icon.jpg) Hola, mi nombre es Jeremi 👋
+# <img src="https://github.com/Jeremitc/Jeremitc/raw/main/Jeremi-Icon.jpg" alt="Jeremi Icon" width="150"/> Hola, mi nombre es Jeremi 👋
 ### Passionate Student / Full Stack Software Engineer & Web Application Developer
 
 ![https://github.com/jeremi](./jeremi_github_profile.png)
