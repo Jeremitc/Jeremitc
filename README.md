@@ -1,7 +1,7 @@
 # <img src="https://github.com/Jeremitc/Jeremitc/raw/main/Jeremi-Icon.jpg" alt="Jeremi Icon" width="50"/> Hola, mi nombre es Jeremi 👋
 ### Passionate Student / Full Stack Software Engineer & Web Application Developer
 
-#<img src="https://github.com/Jeremitc/Jeremitc/raw/main/PlanillaJeremiTC.png" alt="Jeremi Icon" width="50"/>(./jeremi_github_profile.png)
+#<img src="https://github.com/Jeremitc/Jeremitc/raw/main/PlanillaJeremiTC.png" alt="Jeremi Icon" width="600"/>(./jeremi_github_profile.png)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/jeremiapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/jeremi?style=social)](https://twitch.com/jeremi)
