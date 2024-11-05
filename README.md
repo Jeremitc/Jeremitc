@@ -40,10 +40,6 @@ He trabajado en diversos proyectos de desarrollo de software utilizando una vari
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeremi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jeremi)
 [![Web](https://img.shields.io/badge/Web-JeremiDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://jeremi.com)
 
-## Algunos proyectos destacados:
-
-### Calculadora en C++ y Java
-Desarrollé una calculadora de consola en C++ y Java que ejecuta operaciones matemáticas básicas con una interfaz amigable. Implementada en base a expresiones matemáticas que permite una experiencia intuitiva para el usuario final.
 
 ## Cursos (en construcción):
 
