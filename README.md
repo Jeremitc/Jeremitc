@@ -49,6 +49,8 @@ He trabajado en diversos proyectos de desarrollo de software utilizando una vari
 
 ## Encuéntrame en:
 
+[![Facebook](https://img.shields.io/badge/Facebook-Jeremi-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/profile.php?id=100013103852822)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](https://wa.me/51992506137)
 [![YouTube](https://img.shields.io/badge/YouTube-Jeremi_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@jeremichannel)
 [![Twitch](https://img.shields.io/badge/Twitch-jeremi-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/jeremi)
 [![Discord](https://img.shields.io/badge/Discord-jeremi-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://jeremi.com/discord)
