@@ -7,7 +7,7 @@
 [![Twitch Status](https://img.shields.io/twitch/status/jeremi?style=social)](https://twitch.com/jeremi)
 [![Discord](https://img.shields.io/discord/123456789012345678?style=social&label=Discord&logo=discord)](https://jeremi.com/discord)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jeremi?style=social)](https://twitter.com/jeremi)
-![GitHub Followers](https://img.shields.io/github/followers/jeremi?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/jeremitc?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/jeremi?style=social)
 
 Soy un estudiante apasionado de ingeniería de software y desarrollador full stack con experiencia en aplicaciones web.
