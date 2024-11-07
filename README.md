@@ -55,7 +55,7 @@ He trabajado en diversos proyectos de desarrollo de software utilizando una vari
 [![Twitter](https://img.shields.io/badge/Twitter-@jeremi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/jeremi)
 [![Instagram](https://img.shields.io/badge/Instagram-@jeremi-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/jeremi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeremi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jeremi)
-[![Web](https://img.shields.io/badge/Web-JeremiDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://jeremi.com)
+[![Web](https://img.shields.io/badge/Web-JeremiDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://jeremitc.netlify.app/)
 
 
 ## Cursos (en construcción):
