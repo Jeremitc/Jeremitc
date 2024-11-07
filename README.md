@@ -3,12 +3,8 @@
 
 # <img src="https://github.com/Jeremitc/Jeremitc/raw/main/PlanillaJeremiTC.png" alt="Jeremi Icon" width="1000"/>
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/jeremiapps?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/jeremi?style=social)](https://twitch.com/jeremi)
-[![Discord](https://img.shields.io/discord/123456789012345678?style=social&label=Discord&logo=discord)](https://jeremi.com/discord)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jeremi?style=social)](https://twitter.com/jeremi)
 ![GitHub Followers](https://img.shields.io/github/followers/jeremitc?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/jeremi?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/jeremitc?style=social)
 
 Soy un estudiante apasionado de ingeniería de software y desarrollador full stack con experiencia en aplicaciones web.
 
