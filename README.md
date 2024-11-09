@@ -54,7 +54,7 @@ He trabajado en diversos proyectos de desarrollo de software utilizando una vari
 [![Instagram](https://img.shields.io/badge/Instagram-@jeremi-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/jeremi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeremi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jeremi-matias-toscano-cardenas-ab92612b6/)
 [![Web](https://img.shields.io/badge/Web-JeremiDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://jeremitc.netlify.app/)
-[Spotify Playlist](https://open.spotify.com/playlist/5l6yOndoHDeMDuI0xLWcs7?si=c7c21b97e34240df)
+[![Spotify](https://open.spotify.com/playlist/5l6yOndoHDeMDuI0xLWcs7?si=c7c21b97e34240df)
 
 
 ## Cursos (en construcción):
