@@ -81,6 +81,3 @@ He trabajado en diversos proyectos de desarrollo de software utilizando una vari
 [![Spotify](https://img.shields.io/badge/Spotify-Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=101010)](https://open.spotify.com/playlist/5l6yOndoHDeMDuI0xLWcs7?si=c7c21b97e34240df)
 
 
-## Cursos (en construcción):
-
-_Próximamente agregaré mis cursos disponibles._
