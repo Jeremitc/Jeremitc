@@ -35,14 +35,15 @@ jobs:
           # Calendario Isométrico (Cubo 3D)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          # Hábitos de programación (Ajustado para estabilidad)
+          # Hábitos de programación (Ajustado a Classic)
           plugin_habits: yes
-          plugin_habits_from: 200 # Reducido para evitar timeouts
-          plugin_habits_days: 14 # Rango estándar
+          plugin_habits_from: 200
+          plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          plugin_habits_trim: yes # Recortar periodos vacíos
-          # Lenguajes (Gráfico circular)
+          plugin_habits_charts_type: classic # Forzar gráfico clásico
+          plugin_habits_trim: yes
+          # Lenguajes (Gráfico circular explícito)
           plugin_languages: yes
           plugin_languages_sections: graphs
           plugin_languages_colors: github
