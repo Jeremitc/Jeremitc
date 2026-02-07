@@ -42,3 +42,5 @@ jobs:
           plugin_languages_sections: graphs
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
+          plugin_languages_indepth: yes # Para asegurar análisis profundo
+          plugin_languages_analysis_timeout: 15 # Evitar timeouts
