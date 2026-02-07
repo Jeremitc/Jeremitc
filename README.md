@@ -7,6 +7,12 @@
 
 <br />
 
+<div align="center">
+  <img src="https://github.com/Jeremitc/Jeremitc/raw/main/PlanillaJeremiTC.png" height="200" alt="Jeremi Personal Banner" />
+</div>
+
+<br />
+
 ### 👨‍💻 Sobre Mí
 
 **¡Hola! Soy Jeremi.** 👋
@@ -62,7 +68,7 @@ Actualmente estoy profundizando en arquitecturas de software modernas y exploran
 
 <div align="center">
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jeremitc&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="Jeremi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeremitc&show_icons=true&theme=gotham&hide_border=true" alt="Jeremi's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremitc&theme=gotham&hide_border=true" alt="Jeremi's Streak" />
 </p>
 </div>
