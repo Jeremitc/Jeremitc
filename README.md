@@ -2,7 +2,7 @@
   <img src="https://github.com/Jeremitc/Jeremitc/raw/main/Jeremi-Icon.jpg" width="150" style="border-radius: 50%; border: 3px solid #30363d;" alt="Jeremi Avatar" />
   <h1>Jeremi</h1>
   <p><b>Full Stack Software Engineer & Web Developer</b></p>
-  <i>Building digital experiences with purpose and precision.</i>
+  <i>Building digital experiences with purpose and precision. ✨</i>
 </div>
 
 <br />
