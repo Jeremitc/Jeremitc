@@ -69,6 +69,7 @@ Actualmente estoy profundizando en arquitecturas de software modernas y exploran
 <div align="center">
 <p>
   <img src="https://github.com/Jeremitc/Jeremitc/blob/main/github-metrics.svg" alt="Jeremi's GitHub Stats" />
+  <img src="https://github.com/Jeremitc/Jeremitc/blob/main/github-metrics-graphs.svg" alt="Jeremi's GitHub Graphs" />
 </p>
 </div>
 

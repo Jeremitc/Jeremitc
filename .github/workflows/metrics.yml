@@ -1,5 +1,7 @@
 name: Metrics
 on:
+  # Schedule updates (removed as per user request)
+  # schedule: [{cron: "0 * * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: { branches: ["main", "master"] }
@@ -9,27 +11,36 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      # 1. Imagen Original (Datos)
+      - name: General metrics (Data)
+        uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
+          filename: github-metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
-          # Options
-          user: Jeremitc
-          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Lima
           plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
-          plugin_languages_limit: 8
           plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
+          plugin_languages_details: lines, percentage
+          plugin_languages_limit: 8
+
+      # 2. Nueva Imagen (Gráficos)
+      - name: Graphical metrics (Graphs)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics-graphs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: "" # Sin cabecera para no repetir info
+          config_timezone: America/Lima
+          # Calendario Isométrico (Cubo 3D)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          # Hábitos de programación
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          # Lenguajes (Gráfico circular)
+          plugin_languages: yes
+          plugin_languages_sections: graphs
