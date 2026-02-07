@@ -1,8 +1,5 @@
 name: Metrics
 on:
-  # Schedule updates (removed as per user request)
-  # schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: { branches: ["main", "master"] }
 jobs:
@@ -11,7 +8,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      # 1. Imagen Original (Datos)
+      # 1. Imagen Original (Datos generales)
       - name: General metrics (Data)
         uses: lowlighter/metrics@latest
         with:
@@ -20,19 +17,26 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Lima
 
-      # 2. Nueva Imagen (Gráficos)
+      # 2. Imagen de Gráficos (Calendario + Lenguajes)
       - name: Graphical metrics (Graphs)
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics-graphs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          base: "" # Sin cabecera para no repetir info
+          base: ""
           config_timezone: America/Lima
+
           # Calendario Isométrico (Cubo 3D)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          # Lenguajes - Configuración SIMPLE que funciona
+
+          # Lenguajes - TODOS los lenguajes, sin ignorar nada
           plugin_languages: yes
-          plugin_languages_ignored: html, css, scss # Ignorar markup común
+          plugin_languages_indepth: yes
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8
+          plugin_languages_limit: 10
+          plugin_languages_threshold: 0%
+          plugin_languages_other: yes
+          plugin_languages_categories: markup, programming, data
+          plugin_languages_colors: github
+          plugin_languages_aliases: "JavaScript:JS, TypeScript:TS"
